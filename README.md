@@ -3,7 +3,7 @@
 <h3 align="center">Hi 👋, I'm Prince Patel and I am currently pursuing my Bachelor's degree in Information Technology. I am passionate about Web Dev, Software Dev, and & I enjoy learning new things.</h3>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning UX Design
 
 - 📝 I regularly write articles on [https://capturedbyprince.netlify.app/](https://capturedbyprince.netlify.app/)
 
